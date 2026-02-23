@@ -1,6 +1,6 @@
 {
   "name": "@minions-milestones/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Milestone definitions, dependencies, and completion criteria",
   "type": "module",
   "main": "./dist/index.js",

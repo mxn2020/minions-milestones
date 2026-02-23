@@ -1,7 +1,7 @@
 {
     "name": "minions-milestones-workspace",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Milestone definitions, dependencies, and completion criteria",
     "type": "module",
     "license": "MIT",
