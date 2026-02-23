@@ -1,6 +1,12 @@
 ---
 name: minions-milestones
-description: Milestone definitions, dependencies, and completion criteria
+id: OC-0131
+version: 1.0.0
+description: "Milestone definitions, dependencies, and completion criteria"
+category: productivity
+subcategory: tasks
+tags: ["minion", "productivity", "tasks"]
+comments:
 ---
 
 # minions-milestones — Agent Skills
