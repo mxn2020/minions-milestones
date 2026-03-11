@@ -1,0 +1,8 @@
+name: "@minions-milestones/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-milestones-workspace
+description: "CLI for minions-milestones — Milestone definitions, dependencies, and completion criteria"
+priority: high
+deploy_url: null
+tags: null

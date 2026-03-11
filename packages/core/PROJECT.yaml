@@ -1,0 +1,8 @@
+name: "@minions-milestones/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-milestones-workspace
+description: "Milestone definitions, dependencies, and completion criteria"
+priority: high
+deploy_url: null
+tags: null
